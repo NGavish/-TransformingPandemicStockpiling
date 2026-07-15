@@ -1,0 +1,8 @@
+\begin{figure}[ht!]
+\begin{center}
+\scalebox{1}{\includegraphics{./graphs/NPI_impact.eps}}
+\caption{}
+\label{fig:./graphs/NPI_impact}
+\end{center}
+%/Users/nirgavish/Library/CloudStorage/Dropbox/Pandemic Influenza/cleancodes
+\end{figure}

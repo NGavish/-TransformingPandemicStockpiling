@@ -1,0 +1,11 @@
+% Main text graphs
+Figure1_VerySevere_revised
+Figure2_Severe_revised
+Figure3_Moderate_revised
+Figure4_NPI_impact
+
+% SI graphs
+Figure_UK
+Figure_Japan
+sensitivityGammaI
+Figure1B_VerySevere_SHEIR

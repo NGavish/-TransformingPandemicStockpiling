@@ -1,0 +1,8 @@
+\begin{figure}[ht!]
+\begin{center}
+\scalebox{1}{\includegraphics{./graphs/Figure_Japan_Scenario.eps}}
+\caption{}
+\label{fig:./graphs/Figure_Japan_Scenario}
+\end{center}
+%/Users/nirgavish/Library/CloudStorage/Dropbox/Pandemic Influenza/cleancodes
+\end{figure}

@@ -1,0 +1,8 @@
+\begin{figure}[ht!]
+\begin{center}
+\scalebox{1}{\includegraphics{./graphs/Figure1_VerySevere_Revised.eps}}
+\caption{}
+\label{fig:./graphs/Figure1_VerySevere_Revised}
+\end{center}
+%/Users/nirgavish/Library/CloudStorage/Dropbox/Pandemic Influenza/cleancodes
+\end{figure}
